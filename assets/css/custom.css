@@ -1,0 +1,45 @@
+a.btn-cta-primary, .btn-cta-primary {
+    background: #0090FF;
+    border: 1px solid #0090FF;
+    border-top-color: #0090FF;
+    border-right-color: #0090FF;
+    border-bottom-color: #0090FF;
+    border-left-color: #0090FF;
+
+}
+
+a {
+    color: #0090FF;
+    text-decoration-color: #0090FF;
+}
+
+.skills .skillset .level-bar-inner {
+    background-color: #0090FF;
+}
+
+.header {
+    background: rgb(75, 82, 87);
+    border-top-color: transparent;
+}
+
+body {
+    background: #2C2F33;
+    color: #c5c5c5;
+}
+
+.header .profile-content .name {
+    color: #ffffff;
+}
+
+.header .profile-content .desc {
+    color: #e0e0e0;
+
+}
+
+.section .section-inner {
+    background: #23272A;
+}
+
+.section .heading {
+    color: #e0e0e0;
+}
