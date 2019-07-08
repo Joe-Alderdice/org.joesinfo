@@ -1,45 +1,104 @@
-a.btn-cta-primary, .btn-cta-primary {
-    background: #0090FF;
-    border: 1px solid #0090FF;
-    border-top-color: #0090FF;
-    border-right-color: #0090FF;
-    border-bottom-color: #0090FF;
-    border-left-color: #0090FF;
-
-}
-
-a {
-    color: #0090FF;
-    text-decoration-color: #0090FF;
-}
-
-.skills .skillset .level-bar-inner {
-    background-color: #0090FF;
-}
-
-.header {
-    background: rgb(75, 82, 87);
-    border-top-color: transparent;
-}
-
 body {
-    background: #2C2F33;
-    color: #c5c5c5;
+    background-color: #2C2F33;
 }
 
-.header .profile-content .name {
-    color: #ffffff;
+.logo {
+    border-radius: 50%;
+    margin-top: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    -webkit-box-shadow: 0px 0px 26px -15px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 26px -15px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 26px -15px rgba(0,0,0,0.75);
 }
 
-.header .profile-content .desc {
-    color: #e0e0e0;
-
+.name {
+    margin-top: 1%;
+    color: #fff;
 }
 
-.section .section-inner {
-    background: #23272A;
+.fa-twitter {
+    color: #fff;
+    padding-left: 3px;
+    padding-right: 3px;
 }
 
-.section .heading {
-    color: #e0e0e0;
+.fa-twitter:hover {
+    -moz-transition: all .2s ease-in;
+    -o-transition: all .2s ease-in;
+    -webkit-transition: all .2s ease-in;
+    transition: all .2s ease-in;
+    color: #38A1F3;
+    
+}
+
+.fa-discord {
+    color: #fff;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.fa-discord:hover {
+    -moz-transition: all .2s ease-in;
+    -o-transition: all .2s ease-in;
+    -webkit-transition: all .2s ease-in;
+    transition: all .2s ease-in;
+    color: #7289DA
+}
+
+.fa-github {
+    color: #fff;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.fa-github:hover {
+    -moz-transition: all .2s ease-in;
+    -o-transition: all .2s ease-in;
+    -webkit-transition: all .2s ease-in;
+    transition: all .2s ease-in;
+    color: #211f1f;
+}
+
+.fa-gitlab {
+    color: #fff;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.fa-gitlab:hover {
+    -moz-transition: all .2s ease-in;
+    -o-transition: all .2s ease-in;
+    -webkit-transition: all .2s ease-in;
+    transition: all .2s ease-in;
+    color: #FC6D27;
+}
+
+.fa-twitch {
+    color: #fff;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.fa-twitch:hover {
+    -moz-transition: all .2s ease-in;
+    -o-transition: all .2s ease-in;
+    -webkit-transition: all .2s ease-in;
+    transition: all .2s ease-in;
+    color: #6441a5;
+}
+
+.fa-envelope {
+    color: #fff;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.fa-envelope:hover {
+    -moz-transition: all .2s ease-in;
+    -o-transition: all .2s ease-in;
+    -webkit-transition: all .2s ease-in;
+    transition: all .2s ease-in;
+    color: #fa3434;
 }
